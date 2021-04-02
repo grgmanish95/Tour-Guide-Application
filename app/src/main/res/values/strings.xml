@@ -149,7 +149,7 @@
         <b>Contact:</b> <u>+33144581055</u>; <u>alain-ducasse.com</u>\n
         <b>Open:</b> Mon-Fri 7.00am-2.00pm, Sat-Sun 7.00am-11.30am
     </string>
-     <string name="expensive_cafe_desc_2">
+    <string name="expensive_cafe_desc_2">
         <b>Address:</b> 84 rue de Varenne\n
         <b>Contact:</b> <u>+33147050906</u>\n
         <b>Open:</b> Mon-Fri 12.30pm-2.30pm, 8.00pm-10.30pm, Sat-Sun closed
@@ -164,7 +164,7 @@
         <b>Contact:</b> <u>+33140399619</u>; <u>frenchie-restaurant.com</u>\n
         <b>Open:</b> Mon-Fri 6.30pm-10.00pm, Sat-Sun closed
     </string>
-     <string name="expensive_cafe_desc_5">
+    <string name="expensive_cafe_desc_5">
         <b>Address:</b> 17 rue Rodier\n
         <b>Contact:</b> <u>+33650723621</u>; <u>latelier-rodier.com</u>\n
         <b>Open:</b> Tue-Sat 7.30pm-11.30pm, Mon, Sun closed
@@ -179,12 +179,12 @@
         <b>Contact:</b>  <u>guysavoy.com</u>\n
         <b>Open:</b> Tue-Sat 12.00pm-2.00pm, 7.00pm-10.30pm, Mon, Sun closed
     </string>
-     <string name="expensive_cafe_desc_8">
+    <string name="expensive_cafe_desc_8">
         <b>Address:</b> Hôtel Four Seasons 31 avenue George V\n
         <b>Contact:</b> <u>+33149527154</u>; <u>fourseasons.com</u>\n
         <b>Open:</b> Mon-Sun 7.00am-10.00am, 12.30pm-2.30pm
     </string>
-     <string name="expensive_cafe_desc_9">
+    <string name="expensive_cafe_desc_9">
         <b>Address:</b> 41 rue de Lille\n
         <b>Contact:</b> <u>+33158621008</u>; <u>lesclimats.fr</u>\n
         <b>Open:</b> Tue-Sat 12.00pm-2.30pm, 7.00pm-10.00pm, Mon, Sun closed

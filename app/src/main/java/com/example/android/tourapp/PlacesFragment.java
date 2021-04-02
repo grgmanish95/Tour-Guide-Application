@@ -1,5 +1,6 @@
 package com.example.android.tourapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -40,6 +41,14 @@ public class PlacesFragment extends Fragment {
         listAdapter = new ListAdapter(getActivity(), places);
         listView = (ListView) view.findViewById(R.id.places_list);
         listView.setAdapter(listAdapter);
+        listView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getContext(),
+                        newActivity.class);
+                startActivity(intent);
+            }
+        });
         return view;
     }
 }
